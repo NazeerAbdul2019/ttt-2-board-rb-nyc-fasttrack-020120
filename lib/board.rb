@@ -1,2 +1,1 @@
-board = x
-x = array.("9", " ")
+board = array.new("9", " ")
