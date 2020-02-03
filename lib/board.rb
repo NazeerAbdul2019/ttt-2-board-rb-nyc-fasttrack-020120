@@ -1,1 +1,2 @@
-# Define the variable board below.
+board = x
+x = ("9", " ")
